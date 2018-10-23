@@ -1,4 +1,7 @@
 {
+        "name": "github2018/permission",
+        "description": "Create permission laravel 5.7",
+        "license": "MIT",
     "require": {
         "spatie/laravel-permission": "^2.23"
     }
